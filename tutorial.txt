@@ -1,0 +1,58 @@
+F3Z || F-RRREL
+
+OK TUTORIAL PEMAKAIAN TOOLS F3ZCD1
+
+Langsung Kita eksekusi Toolsnya
+
+Langkah langkah nya : 
+
+$apt update && apt upgrade
+
+$pkg install python2
+
+$pkg install bash
+
+$pkg install lolcat
+
+$pkg install git
+
+$git clone https://github.com/xF3Zx/CODINGZZ
+
+ls
+
+
+Cara Menjalankan Script Nya :
+
+$cd CODINGZZ
+
+ls
+
+$chmod +x F3ZCD1.sh
+
+$sh F3ZCD1.sh
+
+
+
+
+
+dan kalau temen temen mau tebas index webdav pilih yg A 
+
+Dan kalau Temen temen mau Deface Masal Pilih C
+
+untuk Yg Tebas Index Webdav Sc deface nya harus bernama (index.html)
+
+langsung masukan Web target
+
+cari aja web target di google
+gw bakal kasih Dork nya biar Temen -temen bisa cari web nya 
+
+Dork : 
+~Inurl:Hmei7.asp:.txt
+~ intitle:”index.of” intext:”(Win32) DAV/2″ ~intext:”Apache”intitle:”index.of”intext:”(Win32) DAV/2″intext:”Apache” site:edu
+~intitle:”index.of” intext:”(Win32) DAV/2″intext:”Apache” site:gov
+~intitle:”index.of” intext:”(Win32) DAV/2″ intext:”Apache” site:
+
+sekian Dulu Dari Gw
+F3Z || BOJONEGORO CYBER SECURITY
+
+ 
